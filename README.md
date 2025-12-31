@@ -40,7 +40,7 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/soumil-verma-576a02305/
 - 🧠 LeetCode: https://leetcode.com/u/soumilverma35/
 - 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/profile/soumilvhvyu
-- 🔵 CodeChef: https://www.codechef.com/users/anonymous_37
+- 🔵 CodeChef: https://www.codechef.com/users/iamsomil
 - 🔴 Codeforces: https://codeforces.com/profile/Somil_Verma
 - 📘 TakeUForward: https://takeuforward.org/profile/thisissomil35
 
