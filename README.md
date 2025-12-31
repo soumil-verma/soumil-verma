@@ -41,7 +41,6 @@
 - 🧠 LeetCode: https://leetcode.com/u/soumilverma35/
 - 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/profile/soumilvhvyu
 - 🔵 CodeChef: https://www.codechef.com/users/iamsomil
-- 🔴 Codeforces: https://codeforces.com/profile/Somil_Verma
 - 📘 TakeUForward: https://takeuforward.org/profile/thisissomil35
 
 ---
