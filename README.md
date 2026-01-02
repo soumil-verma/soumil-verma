@@ -31,7 +31,7 @@
 - **Languages:** C++, JavaScript, Python  
 - **Web:** React, Node.js, Express, HTML, CSS, Tailwind  
 - **Data:** Pandas, NumPy, Matplotlib, SQL  
-- **Database:** MongoDB  
+- **Database:** MongoDB, SQL
 - **Tools:** Git, GitHub, VS Code  
 
 ---
@@ -49,13 +49,10 @@
 These repositories represent my **current learning, building, and mastery journey**:
 
 - **coding-interview-dsa**  
-  Structured DSA practice for coding interviews (arrays → graphs → DP)
+  Structured DSA practice for coding interviews 
 
 - **mern-stack-projects**  
   Full-stack MERN applications with authentication, APIs, and deployments
-
-- **system-design-basics**  
-  Low-level system design concepts, diagrams, and explanations
 
 - **data-science-projects**  
   Data analysis & machine learning projects using real-world datasets
@@ -72,4 +69,5 @@ These repositories represent my **current learning, building, and mastery journe
 ---
 
 ### ⚡ Fun fact
+
 I believe mastering fundamentals and building consistently is the fastest path to becoming a strong software engineer.
