@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Soumil
 
 🎓 BTech CSE @ IIIT Nagpur (3rd Year)  
-💻 Aspiring Software Engineer | MERN Stack Developer | Data Science  
+💻 Aspiring Software Development Engineer | MERN Stack Developer | Data Science  
 🧠 Strong focus on DSA | Targeting high-growth internships & full-time roles
 
 ---
@@ -37,6 +37,7 @@
 ---
 
 ### 🔗 Coding & Professional Profiles
+- 📑 **Portfolio:** https://soumil-verma.github.io  
 - 💼 LinkedIn: https://www.linkedin.com/in/soumil-verma-576a02305/
 - 🧠 LeetCode: https://leetcode.com/u/soumilverma35/
 - 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/profile/soumilvhvyu
