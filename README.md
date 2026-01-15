@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;DSA+Focused+Engineer;BTech+CSE+@+IIIT+Nagpur&center=true&width=600&height=50">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soumil-verma&color=blue" />
-</p>
-
-
 ## Hi there 👋 I'm Soumil
   
 🎓 BTech CSE @ IIIT Nagpur (3rd Year)  
@@ -88,6 +83,12 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![TakeUForward](https://img.shields.io/badge/TakeUForward-000000?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![Soumil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumil-verma&show_icons=true&theme=tokyonight)
 
 ---
 
