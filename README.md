@@ -92,6 +92,30 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=soumil-verma&theme=tokyonight)
+
+--- 
+
+## 🧠 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumil-verma&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/soumilverma35?theme=dark&font=Karma)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=soumil-verma&theme=tokyonight)
+
+---
+
 ### 🔗 Coding & Professional Profiles
 - 📑 **Portfolio:** https://soumil-verma.github.io    
 - 💼 LinkedIn: https://www.linkedin.com/in/soumil-verma-576a02305/
