@@ -88,7 +88,10 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=soumil-verma&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumil-verma&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>
+
 
 
 ---
