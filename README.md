@@ -56,11 +56,29 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)
 
-### 🛠️ Tools
+### 📊 Python & Data Tools
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### 🛠️ Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### 🧠 Core CS & Interview Prep
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-0A66C2?style=for-the-badge)
+![OOPS](https://img.shields.io/badge/OOPS-7952B3?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-FF6F00?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-2C3E50?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-007ACC?style=for-the-badge)
+
+### 🧩 Coding Platforms
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![TakeUForward](https://img.shields.io/badge/TakeUForward-000000?style=for-the-badge)
 
 ---
 
