@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;DSA+Focused+Engineer;BTech+CSE+@+IIIT+Nagpur&center=true&width=600&height=50">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soumil-verma&color=blue" />
+</p>
+
+
 ## Hi there 👋 I'm Soumil
   
 🎓 BTech CSE @ IIIT Nagpur (3rd Year)  
