@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;DSA+Focused+Engineer;BTech+CSE+@+IIIT+Nagpur&center=true&width=600&height=50">
 </p>
 
