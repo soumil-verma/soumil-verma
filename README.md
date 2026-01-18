@@ -6,7 +6,7 @@
   
 🎓 BTech CSE @ IIIT Nagpur (3rd Year)  
 💻 Aspiring Software Development Engineer | MERN Stack Developer  
-🧠 Strong focus on DSA | Targeting high-growth internships & full-time roles
+🧠 Strong focus on DSA | Targeting high-growth internships & full-time roles 
 
 ---
 
