@@ -14,7 +14,7 @@
 - **Production-ready MERN stack applications** (end-to-end, deployed) 
 - **Data Structures & Algorithms** for coding interviews    
   
----
+---  
 
 ### 🌱 I’m currently mastering
 - **Advanced MERN Stack** (Authentication, REST APIs, scalability)
