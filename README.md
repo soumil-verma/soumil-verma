@@ -25,7 +25,7 @@
 ### 👯 I’m open to collaborating on
 - Full-stack web development projects (MERN)  
 - Open-source projects in JavaScript or Python
-
+                     
 ---
 
 ### 🛠 Tech Stack
