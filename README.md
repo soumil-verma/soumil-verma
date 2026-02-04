@@ -5,19 +5,20 @@
 ## Hi there 👋 I'm Soumil         
                   
 🎓 BTech CSE @ IIIT Nagpur (3rd Year)            
-💻 Aspiring Software Development Engineer | MERN Stack Developer                 
+💻 Aspiring Software Development Engineer | Full Stack Developer                 
 🧠 Strong focus on DSA | Targeting high-growth internships & full-time roles                                 
       
 ---   
      
 ### 🔭 I’m currently working on      
-- **Production-ready MERN stack applications** (end-to-end, deployed) 
+- **Production-ready Full stack applications** (end-to-end, deployed) 
 - **Data Structures & Algorithms** for coding interviews    
   
 ---  
 
 ### 🌱 I’m currently mastering                        
-- **Advanced MERN Stack** (Authentication, REST APIs, scalability)
+- **Advanced Full Stack** (Authentication, REST APIs, scalability)
+
 - **System Design fundamentals (LLD)**
 
 ---
