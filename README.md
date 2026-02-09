@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DSA+Focused+Engineer;BTech+CSE+@+IIIT+Nagpur&center=true&width=600&height=50">
 </p>
        
-## Hi there 👋 I'm Soumil                       
+## Hi there 👋 I'm Soumil                                   
                                           
 🎓 BTech CSE @ IIIT Nagpur (3rd Year)                  
 💻 Aspiring Software Development Engineer | Full Stack Developer                 
