@@ -21,7 +21,7 @@
       
 - **System Design fundamentals (LLD)**
 
----       
+---         
 
 ### 👯 I’m open to collaborating on  
 - Full-stack web development projects (MERN)         
