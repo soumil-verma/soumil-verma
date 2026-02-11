@@ -13,7 +13,7 @@
 ### 🔭 I’m currently working on                
 - **Production-ready Full stack applications** (end-to-end, deployed)                                        
 - **Data Structures & Algorithms** for coding interviews    
-  
+    
 ---        
 
 ### 🌱 I’m currently mastering                          
